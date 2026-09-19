@@ -1,0 +1,15 @@
+D:\programiranje\C#\ispis parnih\bin\Debug\net10.0\ispis parnih.exe
+D:\programiranje\C#\ispis parnih\bin\Debug\net10.0\ispis parnih.deps.json
+D:\programiranje\C#\ispis parnih\bin\Debug\net10.0\ispis parnih.runtimeconfig.json
+D:\programiranje\C#\ispis parnih\bin\Debug\net10.0\ispis parnih.dll
+D:\programiranje\C#\ispis parnih\bin\Debug\net10.0\ispis parnih.pdb
+D:\programiranje\C#\ispis parnih\obj\Debug\net10.0\ispis parnih.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\C#\ispis parnih\obj\Debug\net10.0\ispis parnih.AssemblyInfoInputs.cache
+D:\programiranje\C#\ispis parnih\obj\Debug\net10.0\ispis parnih.AssemblyInfo.cs
+D:\programiranje\C#\ispis parnih\obj\Debug\net10.0\ispis parnih.csproj.CoreCompileInputs.cache
+D:\programiranje\C#\ispis parnih\obj\Debug\net10.0\ispis parnih.dll
+D:\programiranje\C#\ispis parnih\obj\Debug\net10.0\refint\ispis parnih.dll
+D:\programiranje\C#\ispis parnih\obj\Debug\net10.0\ispis parnih.pdb
+D:\programiranje\C#\ispis parnih\obj\Debug\net10.0\ispis parnih.genruntimeconfig.cache
+D:\programiranje\C#\ispis parnih\obj\Debug\net10.0\ref\ispis parnih.dll
+D:\programiranje\C#\ispis parnih\obj\Debug\net10.0\ispis pa.1C4BF88E.Up2Date
