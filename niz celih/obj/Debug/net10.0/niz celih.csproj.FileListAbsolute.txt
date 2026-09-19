@@ -1,0 +1,15 @@
+D:\programiranje\C#\niz celih\obj\Debug\net10.0\niz celih.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\C#\niz celih\obj\Debug\net10.0\niz celih.AssemblyInfoInputs.cache
+D:\programiranje\C#\niz celih\obj\Debug\net10.0\niz celih.AssemblyInfo.cs
+D:\programiranje\C#\niz celih\obj\Debug\net10.0\niz celih.csproj.CoreCompileInputs.cache
+D:\programiranje\C#\niz celih\bin\Debug\net10.0\niz celih.exe
+D:\programiranje\C#\niz celih\bin\Debug\net10.0\niz celih.deps.json
+D:\programiranje\C#\niz celih\bin\Debug\net10.0\niz celih.runtimeconfig.json
+D:\programiranje\C#\niz celih\bin\Debug\net10.0\niz celih.dll
+D:\programiranje\C#\niz celih\bin\Debug\net10.0\niz celih.pdb
+D:\programiranje\C#\niz celih\obj\Debug\net10.0\niz celih.dll
+D:\programiranje\C#\niz celih\obj\Debug\net10.0\refint\niz celih.dll
+D:\programiranje\C#\niz celih\obj\Debug\net10.0\niz celih.pdb
+D:\programiranje\C#\niz celih\obj\Debug\net10.0\niz celih.genruntimeconfig.cache
+D:\programiranje\C#\niz celih\obj\Debug\net10.0\ref\niz celih.dll
+D:\programiranje\C#\niz celih\obj\Debug\net10.0\niz celih.csproj.Up2Date
