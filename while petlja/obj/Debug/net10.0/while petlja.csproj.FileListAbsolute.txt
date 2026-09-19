@@ -1,0 +1,15 @@
+D:\programiranje\C#\while petlja\obj\Debug\net10.0\while petlja.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\C#\while petlja\obj\Debug\net10.0\while petlja.AssemblyInfoInputs.cache
+D:\programiranje\C#\while petlja\obj\Debug\net10.0\while petlja.AssemblyInfo.cs
+D:\programiranje\C#\while petlja\obj\Debug\net10.0\while petlja.csproj.CoreCompileInputs.cache
+D:\programiranje\C#\while petlja\bin\Debug\net10.0\while petlja.exe
+D:\programiranje\C#\while petlja\bin\Debug\net10.0\while petlja.deps.json
+D:\programiranje\C#\while petlja\bin\Debug\net10.0\while petlja.runtimeconfig.json
+D:\programiranje\C#\while petlja\bin\Debug\net10.0\while petlja.dll
+D:\programiranje\C#\while petlja\bin\Debug\net10.0\while petlja.pdb
+D:\programiranje\C#\while petlja\obj\Debug\net10.0\while petlja.dll
+D:\programiranje\C#\while petlja\obj\Debug\net10.0\refint\while petlja.dll
+D:\programiranje\C#\while petlja\obj\Debug\net10.0\while petlja.pdb
+D:\programiranje\C#\while petlja\obj\Debug\net10.0\while petlja.genruntimeconfig.cache
+D:\programiranje\C#\while petlja\obj\Debug\net10.0\ref\while petlja.dll
+D:\programiranje\C#\while petlja\obj\Debug\net10.0\while pe.48FC2A75.Up2Date
