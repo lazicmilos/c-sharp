@@ -1,0 +1,15 @@
+D:\programiranje\C#\multiply function\bin\Debug\net10.0\multiply function.exe
+D:\programiranje\C#\multiply function\bin\Debug\net10.0\multiply function.deps.json
+D:\programiranje\C#\multiply function\bin\Debug\net10.0\multiply function.runtimeconfig.json
+D:\programiranje\C#\multiply function\bin\Debug\net10.0\multiply function.dll
+D:\programiranje\C#\multiply function\bin\Debug\net10.0\multiply function.pdb
+D:\programiranje\C#\multiply function\obj\Debug\net10.0\multiply function.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\C#\multiply function\obj\Debug\net10.0\multiply function.AssemblyInfoInputs.cache
+D:\programiranje\C#\multiply function\obj\Debug\net10.0\multiply function.AssemblyInfo.cs
+D:\programiranje\C#\multiply function\obj\Debug\net10.0\multiply function.csproj.CoreCompileInputs.cache
+D:\programiranje\C#\multiply function\obj\Debug\net10.0\multiply function.dll
+D:\programiranje\C#\multiply function\obj\Debug\net10.0\refint\multiply function.dll
+D:\programiranje\C#\multiply function\obj\Debug\net10.0\multiply function.pdb
+D:\programiranje\C#\multiply function\obj\Debug\net10.0\multiply function.genruntimeconfig.cache
+D:\programiranje\C#\multiply function\obj\Debug\net10.0\ref\multiply function.dll
+D:\programiranje\C#\multiply function\obj\Debug\net10.0\multiply.46018638.Up2Date
