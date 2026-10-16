@@ -1,0 +1,15 @@
+D:\programiranje\C#\zadatak11\obj\Debug\net10.0\zadatak11.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\C#\zadatak11\obj\Debug\net10.0\zadatak11.AssemblyInfoInputs.cache
+D:\programiranje\C#\zadatak11\obj\Debug\net10.0\zadatak11.AssemblyInfo.cs
+D:\programiranje\C#\zadatak11\obj\Debug\net10.0\zadatak11.csproj.CoreCompileInputs.cache
+D:\programiranje\C#\zadatak11\bin\Debug\net10.0\zadatak11.exe
+D:\programiranje\C#\zadatak11\bin\Debug\net10.0\zadatak11.deps.json
+D:\programiranje\C#\zadatak11\bin\Debug\net10.0\zadatak11.runtimeconfig.json
+D:\programiranje\C#\zadatak11\bin\Debug\net10.0\zadatak11.dll
+D:\programiranje\C#\zadatak11\bin\Debug\net10.0\zadatak11.pdb
+D:\programiranje\C#\zadatak11\obj\Debug\net10.0\zadatak11.dll
+D:\programiranje\C#\zadatak11\obj\Debug\net10.0\refint\zadatak11.dll
+D:\programiranje\C#\zadatak11\obj\Debug\net10.0\zadatak11.pdb
+D:\programiranje\C#\zadatak11\obj\Debug\net10.0\zadatak11.genruntimeconfig.cache
+D:\programiranje\C#\zadatak11\obj\Debug\net10.0\ref\zadatak11.dll
+D:\programiranje\C#\zadatak11\obj\Debug\net10.0\zadatak11.csproj.Up2Date
