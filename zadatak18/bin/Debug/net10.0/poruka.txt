@@ -1,0 +1,4 @@
+Ovo je poruka koja ce biti upisana u fajl
+Ovo je druga poruka koja ce biti upisana u fajl
+Ovo je treca poruka koja ce biti upisana u fajl
+ProbaDodatak
